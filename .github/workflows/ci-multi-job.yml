@@ -67,4 +67,4 @@ jobs:
           java-version: "21"
           cache: maven
       - name: Run integration tests
-        run: mvn integration-test --batch-mode
+        run: mvn integration-test --batch-mod
